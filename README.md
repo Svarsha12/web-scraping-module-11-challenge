@@ -26,7 +26,7 @@ Store each title-and-preview pair in a Python dictionary and, give each dictiona
 Store all the dictionaries in a Python list.
 Print the list in your notebook.
 Optionally, store the scraped data in a file (to ease sharing the data with others). To do so, export the scraped data to a JSON file.
-Used starter code file part_1_mars_news.ipynb. Exported mars_news to mar_news.json file.
+Used starter code file part_1_mars_news.ipynb. Exported mars_news to mar_news.json file. I imported json function to export the file.
 
 # Part 2: Scrape and Analyze Mars Weather Data
 
