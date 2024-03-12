@@ -23,7 +23,7 @@ Store each title-and-preview pair in a Python dictionary and, give each dictiona
 Store all the dictionaries in a Python list.
 Print the list in your notebook.
 Optionally, store the scraped data in a file (to ease sharing the data with others). To do so, export the scraped data to a JSON file.
-Used starter code file part_1_mars_news.ipynb and part_2_mars_weather.ipynb. Exported mars_weather table to mars_weather.csv and mars_news to mar_news.json file.
+Used starter code file part_1_mars_news.ipynb. Exported mars_news to mar_news.json file.
 
 # Part 2: Scrape and Analyze Mars Weather Data
 
@@ -41,7 +41,8 @@ month: the Martian month
 min_temp: the minimum temperature, in Celsius, of a single Martian day (sol)
 pressure: The atmospheric pressure at Curiosity's location
 Examine the data types that are currently associated with each column. If necessary, cast (or convert) 
-the data to the appropriate datetime, int, or float data types.
+the data to the appropriate datetime, int, or float data types.Used starter code file part_2_mars_weather.ipynb
+ Exported mars_weather table to mars_weather.csv.
 
 # Hints, Work and Help
 I went through all class materials, understating different visualization, panda function and check my code in xpert learning. 
